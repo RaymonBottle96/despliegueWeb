@@ -28,7 +28,7 @@
       </div>
     </div>
   </section>
-
+  
   <section id="about">
     <div class="container">
       <div class="row">
@@ -61,6 +61,7 @@
             que lo mejor sería estandarizar el lenguaje JavaScript. De esta forma, en 1997 se envió la 
             especificación JavaScript 1.1 al organismo ECMA European Computer Manufacturers Association).
           </p>
+          <img src="img/js.jpg">
         </div>
       </div>
     </div>
