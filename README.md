@@ -17,9 +17,7 @@ diseño de la web.
 
 ## Mapa de navegación
 ```mermaid
-
 graph TD;
     Index-->Javascript;
     Index-->Csharp;
-
 ```
